@@ -9,7 +9,7 @@ class Registrasi {
     return Registrasi(
       code: obj['code'],
       status: obj['status'],
-      data: obj['data']
-      );
+      data: obj['data'],
+    );
   }
 }
